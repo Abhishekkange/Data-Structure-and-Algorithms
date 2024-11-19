@@ -32,8 +32,6 @@ public class palindromechecker {
         String text = sc.nextLine();
         System.out.println(checkPalindrome(text.toLowerCase(), 0, text.length()-1));
 
-
-
-
+        
     }
 }
