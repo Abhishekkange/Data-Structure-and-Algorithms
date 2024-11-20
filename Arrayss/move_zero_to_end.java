@@ -16,17 +16,11 @@ public class move_zero_to_end {
                 countNonZero++;
             };
 
-           
-
-
-
-
-
         }
         for (int i = countNonZero; i < arr.length; i++) {
             arr[i] = 0;
         }
-       
+
 
     }
 
@@ -52,9 +46,6 @@ public class move_zero_to_end {
                 arr[i] = temp;
 
             }
-            
-
-
 
         }
 
@@ -69,8 +60,6 @@ public class move_zero_to_end {
         {
             System.out.print(arr[i]+" ");
         }
-        
-
-
+    
     }
 }
