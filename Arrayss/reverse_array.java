@@ -25,7 +25,5 @@ public class reverse_array {
 
             System.out.print(arr[i]+" ");
         }
-        
-
     }
 }
