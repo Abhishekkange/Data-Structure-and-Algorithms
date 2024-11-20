@@ -24,7 +24,7 @@ public class check_array_sorted {
         
         public static void main(String[] args) {
     
-            int[] arr = {1,20,30,40,50,6,70};
+            int[] arr = {10,20,30,40,50,6,70};
             System.out.println(func(arr,0));
         
 
