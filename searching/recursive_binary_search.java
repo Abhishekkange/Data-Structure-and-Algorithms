@@ -25,10 +25,9 @@ public class recursive_binary_search {
             {
                return func(arr,num,mid+1,end);
             }
-    
 
         }
-       
+
 
     }
     
@@ -38,8 +37,6 @@ public class recursive_binary_search {
 
         int[] arr = {1,2,3,4,5,6,8};
         System.out.println(func(arr, 4,0,arr.length));
-
         
-
     }
 }
